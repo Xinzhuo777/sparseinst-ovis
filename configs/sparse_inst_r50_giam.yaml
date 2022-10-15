@@ -1,0 +1,4 @@
+_BASE_: "Base-SparseInst.yaml"
+MODEL:
+  WEIGHTS: "/home/featurize/sparseinstovis/output/model_final.pth"
+OUTPUT_DIR: "output/sparse_inst_r50_giam"
