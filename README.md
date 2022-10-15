@@ -10,9 +10,12 @@ This is a group assignment where we try to train the sparseinst model with the O
 
 #### Usage
 
-I use starts.ipynb to run sparseinst-ovis. I did the inference and training on colab. Due to some features of colab, I use a lot of absolute paths in my code to import some functions. You will need to make some modifications to the paths when you run them in other environments.Other code comments I will give those in stars.ipynb where possible. I will also improve some of my code later.
+Since uploading jupyter notebook to github is more of a hassle than I thought, I decided to put the starts code in the Chinese markdown file.. I did the inference and training on colab. Due to some features of colab, I use a lot of absolute paths in my code to import some functions. You will need to make some modifications to the paths when you run them in other environments.Other code comments I will give those in stars.ipynb where possible. I will also improve some of my code later.
 
 
 
 For more detailed information,please check Chinese markdown.
+
+
+
 # sparseinst-ovis
